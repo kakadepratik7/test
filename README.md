@@ -1,2 +1,2 @@
 # test
-test repository for fit command demonstration
+test repository for git command demonstration
